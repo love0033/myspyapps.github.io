@@ -9,27 +9,56 @@
 
 <url>
   <loc>https://myspyapps.com/</loc>
-  <lastmod>2021-04-28T10:43:06+00:00</lastmod>
+  <lastmod>2021-05-02T11:32:38+00:00</lastmod>
+  <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://myspyapps.com/index.html</loc>
-  <lastmod>2021-04-28T10:43:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://myspyapps.com/How-To-Install.html</loc>
-  <lastmod>2021-04-28T10:43:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://myspyapps.com/FAQ.html</loc>
-  <lastmod>2021-04-28T10:43:06+00:00</lastmod>
+  <lastmod>2021-05-02T11:32:38+00:00</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://myspyapps.com/privacy-policy.html</loc>
-  <lastmod>2021-04-28T10:43:06+00:00</lastmod>
+  <lastmod>2021-05-02T11:32:38+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myspyapps.com/app-features.html</loc>
+  <lastmod>2021-05-02T11:32:38+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myspyapps.com/preview-video.html</loc>
+  <lastmod>2021-05-02T11:32:38+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myspyapps.com/how-To-Install.html</loc>
+  <lastmod>2021-05-02T11:32:38+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myspyapps.com/faq.html</loc>
+  <lastmod>2021-05-02T11:32:38+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myspyapps.com/contact-us.html</loc>
+  <lastmod>2021-05-02T11:32:38+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myspyapps.com/about-Us.html</loc>
+  <lastmod>2021-05-02T11:32:38+00:00</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 
